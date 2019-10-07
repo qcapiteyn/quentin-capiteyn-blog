@@ -3,6 +3,6 @@ title: "About me"
 ---
 
 
-This section also must include: 
-
-- first name/surname, teacher’s name, class name and academic year
+- I'm Capiteyn Quentin, i'm 2nd in biology at Umons 
+- I'm in the 3rd group of english with Mrs Bouchet 
+- Academic year 2019-2010
