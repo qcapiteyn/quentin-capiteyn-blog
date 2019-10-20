@@ -1,11 +1,11 @@
 [
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "title": "Article 1 : Gene editing can make fruit flies into ‘monarch flies’",
     "description": {},
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "Quentin Capiteyn",
         "url": {}
       }
     ],
@@ -15,6 +15,6 @@
       "track"
     ],
     "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-02T10:41:13+02:00"
+    "last_modified": "2019-10-20T12:16:54+02:00"
   }
 ]
