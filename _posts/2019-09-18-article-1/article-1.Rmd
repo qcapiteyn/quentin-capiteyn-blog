@@ -30,9 +30,6 @@ image: ![](https://mappingignorance.org/fx/media/2019/10/1001219_ti_fruitflymona
 |       Unpalatable              |    Not pleasant to taste      |
 |         A vial            |     A small container, typically cylindrical and made of glass, used especially for holding liquid medicines    |
 | Noxious | Harmful, poisonous, or very unpleasant |
-|  |  |
-|  |  |
-|                     |          |
 |                     |          |
 
 ## Analysis table 
