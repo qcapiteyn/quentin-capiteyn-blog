@@ -1,20 +1,19 @@
 [
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "title": "Article 1 : Gene editing can make fruit flies into ‘monarch flies’",
     "description": {},
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "Quentin Capiteyn",
         "url": {}
       }
     ],
-    "date": "2019-09-18",
+    "date": "2019-10-21",
     "categories": [
-      "elephant",
-      "track"
+      "CRISPR/Cas9"
     ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-02T10:41:13+02:00"
+    "preview": "https://mappingignorance.org/fx/media/2019/10/1001219_ti_fruitflymonarch_feat-1030x574.jpg",
+    "last_modified": "2019-10-20T19:46:32+02:00"
   }
 ]

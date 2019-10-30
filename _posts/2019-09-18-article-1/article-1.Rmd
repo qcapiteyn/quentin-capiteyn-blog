@@ -1,12 +1,11 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Article 1 : Gene editing can make fruit flies into ‘monarch flies’"
 author:
-  - name: Nicolas Devilez
-date: 09-18-2019
+  - name: Quentin Capiteyn
+date: 10-21-2019
 categories:
-  - elephant
-  - track
-preview: image/where-s-my-elephant.jpg
+  - CRISPR/Cas9
+preview: https://mappingignorance.org/fx/media/2019/10/1001219_ti_fruitflymonarch_feat-1030x574.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -17,28 +16,36 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
+image: ![](https://mappingignorance.org/fx/media/2019/10/1001219_ti_fruitflymonarch_feat-1030x574.jpg)
+
+
+
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English |
+| Milkweed | A herbaceous American plant with milky sap, some kinds of which attract butterflies or yield a variety of useful products. |
 | ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| To withstand   | To resist                   |
+|         A maggot            |  A soft-bodied legless larva of a fly or other insect        |
+|       Unpalatable              |    Not pleasant to taste      |
+|         A vial            |     A small container, typically cylindrical and made of glass, used especially for holding liquid medicines    |
+| Noxious | Harmful, poisonous, or very unpleasant |
+|                     |          |
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Researchers                  | The biologist Noah Whiteman                        |
+| Published in?                | October 2, 2019                                                       |
+| General topic?               | Modify the genome of fruit flies for give them ability to withstand milkweed toxins                      |
+| Procedure/what was examined? | First it was a supposition that 3 amino acid in the ATPalpha were responsible of the ability of the butterflies, so researchers used CRISPR/Cas9 (a tool able to lyse and replace short sequences of the genome.) to modify fruit flies' genome and give them the resistance to milkweed toxin. |
+| Conclusions/discovery?       |     They successful turned regular fruit flies into "monarch flies", but this ability has a price. The flies' nervous systems were less able to handle stress.    |
 
 
-<https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
+
+<https://www.sciencenews.org/article/gene-editing-can-make-fruit-flies-into-monarch-flies>
+
 
 
 
