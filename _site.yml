@@ -14,5 +14,6 @@ navbar:
 base_url: https://qcapiteyn.github.io/quentin-capiteyn-blog/
 collections:
     posts:
+    disqus: quentin-capiteyn-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
