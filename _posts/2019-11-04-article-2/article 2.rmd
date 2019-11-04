@@ -1,0 +1,48 @@
+---
+title: "Article 2 : Could disabling one protein cure the common cold?"
+author:
+  - name: Quentin Capiteyn
+date: 11-04-2019
+categories:
+  - CRISPR/Cas9
+preview: https://www.genengnews.com/wp-content/uploads/2018/10/crispr-8-3-18.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+image: ![](https://www.genengnews.com/wp-content/uploads/2018/10/crispr-8-3-18.jpg)
+
+
+
+
+## Vocabulary 
+
+| Words | Definitions |
+| ------------------- | ------------------------------ |
+|  |                    |
+|                     |          |
+|                    |          |
+|                     |         |
+|  |  |
+|                     |          |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | The microbiologist Jan Carette and his colleagues                        |
+| Published in?                | October 29, 2019                                                       |
+| General topic?               | Cure the common cold with making the human cell a unwelcome place for the virus                       |
+| Procedure/what was examined? |  |
+| Conclusions/discovery?       |         |
+| Remaining questions | Does inhibiting the production of SETD3 cause problems in the human body? |
+
+
+
+<https://www.sciencenewsforstudents.org/article/could-disabling-one-protein-cure-common-cold>
