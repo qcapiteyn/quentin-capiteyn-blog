@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-11-18-article-3/",
+    "title": "Article 3: Chinese Scientists Tried to Treat HIV Using CRISPR",
+    "description": {},
+    "author": [
+      {
+        "name": "Quentin Capiteyn",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-18",
+    "categories": [
+      "CRISPR/Cas9"
+    ],
+    "preview": "https://images.medicaldaily.com/sites/medicaldaily.com/files/2015/05/28/hiv-attacks-t-cells.jpg",
+    "last_modified": "2019-11-20T15:50:03+01:00"
+  },
+  {
     "path": "posts/2019-11-04-article-2/",
     "title": "Article 2 : Could disabling one protein cure the common cold?",
     "description": {},
@@ -14,24 +31,7 @@
       "CRISPR/Cas9"
     ],
     "preview": "https://www.genengnews.com/wp-content/uploads/2018/10/crispr-8-3-18.jpg",
-    "last_modified": "2019-11-04T11:41:24+01:00"
-  },
-  {
-    "path": "posts/2019-11-18-article-3/",
-    "title": "Article 3 ",
-    "description": {},
-    "author": [
-      {
-        "name": "Quentin Capiteyn",
-        "url": {}
-      }
-    ],
-    "date": "2019-11-04",
-    "categories": [
-      "CRISPR/Cas9"
-    ],
-    "preview": "https://www.genengnews.com/wp-content/uploads/2018/10/crispr-8-3-18.jpg",
-    "last_modified": "2019-11-15T12:36:23+01:00"
+    "last_modified": "2019-11-20T15:47:59+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -48,6 +48,6 @@
       "CRISPR/Cas9"
     ],
     "preview": "https://mappingignorance.org/fx/media/2019/10/1001219_ti_fruitflymonarch_feat-1030x574.jpg",
-    "last_modified": "2019-10-30T12:50:34+01:00"
+    "last_modified": "2019-11-20T15:47:06+01:00"
   }
 ]

@@ -24,7 +24,8 @@ image: ![](https://images.medicaldaily.com/sites/medicaldaily.com/files/2015/05/
 ## Vocabulary 
 
 | Words | Definitions |
-| --------Bone marrow----------- | --------------Substance inside bones---------------- |
+|----------------|---------------|
+|      bone marrow        |   substance inside bones    |
 | stem cell |         self-renewing cell           |
 |         seemingly            |     from appearance     |
 |           briefly         |      quickly    |
