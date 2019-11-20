@@ -17,6 +17,23 @@
     "last_modified": "2019-11-04T11:41:23+01:00"
   },
   {
+    "path": "posts/2019-11-18-article-3/",
+    "title": "Article 3 ",
+    "description": {},
+    "author": [
+      {
+        "name": "Quentin Capiteyn",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-04",
+    "categories": [
+      "CRISPR/Cas9"
+    ],
+    "preview": "https://www.genengnews.com/wp-content/uploads/2018/10/crispr-8-3-18.jpg",
+    "last_modified": "2019-11-15T12:36:22+01:00"
+  },
+  {
     "path": "posts/2019-09-18-article-1/",
     "title": "Article 1 : Gene editing can make fruit flies into ‘monarch flies’",
     "description": {},

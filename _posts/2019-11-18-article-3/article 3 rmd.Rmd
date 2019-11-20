@@ -1,0 +1,48 @@
+---
+title: "Article 3: Chinese Scientists Tried to Treat HIV Using CRISPR"
+author:
+  - name: Quentin Capiteyn
+date: 11-18-2019
+categories:
+  - CRISPR/Cas9
+preview: https://images.medicaldaily.com/sites/medicaldaily.com/files/2015/05/28/hiv-attacks-t-cells.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+image: ![](https://images.medicaldaily.com/sites/medicaldaily.com/files/2015/05/28/hiv-attacks-t-cells.jpg)
+
+
+
+
+## Vocabulary 
+
+| Words | Definitions |
+| --------Bone marrow----------- | --------------Substance inside bones---------------- |
+| stem cell |         self-renewing cell           |
+|         seemingly            |     from appearance     |
+|           briefly         |      quickly    |
+|         to coax            |     to entice    |
+| harmful | injurious |
+|                     |          |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Researchers from Peking University in Beijing                        |
+| Published in?                | September 11, 2019                                                       |
+| General topic?               | Cure HIV using genes edited stems cells transplant                       |
+| Procedure/what was examined? | Scientist saw that only 2 patients were "cure" :of HIV and it was the stems cells of the transplant that were naturally immunes to HIV so researchers try to modify and gave immunity to the stems cells transplant |
+| Conclusions/discovery?       |  The genes modified transplant did not cure the patient but stems cell does not caused problems and the modified genes resist for 19 months in the patient's body. The operation is considered by other scientist to be a success.       |
+|  |  |
+
+
+
+<https://www.livescience.com/crispr-hiv-treatement.html>
