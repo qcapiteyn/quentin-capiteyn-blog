@@ -24,13 +24,13 @@ image: ![](https://www.genengnews.com/wp-content/uploads/2018/10/crispr-8-3-18.j
 ## Vocabulary 
 
 | Words | Definitions |
-| ------------------- | ------------------------------ |
-|  |                    |
-|                     |          |
-|                    |          |
-|                     |         |
-|  |  |
-|                     |          |
+| --------to-hijack---------- | ---------------to steal,to command------------ |
+| a lack |      a deficit              |
+|       to undergo             |      to endure    |
+|          to dip          |     to provide with what is useful     |
+|       a rodent           |    a small mammals     |
+| a womb | an uterus |
+|        a pup            |    a young of small animals     |
 
 ## Analysis table 
 
@@ -39,8 +39,8 @@ image: ![](https://www.genengnews.com/wp-content/uploads/2018/10/crispr-8-3-18.j
 | Researchers                  | The microbiologist Jan Carette and his colleagues                        |
 | Published in?                | October 29, 2019                                                       |
 | General topic?               | Cure the common cold with making the human cell a unwelcome place for the virus                       |
-| Procedure/what was examined? |  |
-| Conclusions/discovery?       |         |
+| Procedure/what was examined? | Scientist suspect that common cold viruses absolutly need a particular protein (called SETD3) for his growth and his spreading. So they tried to enable the production of this protein to make the cell an "unwelcome place" for the viruses.  |
+| Conclusions/discovery?       |     They applied this in mice and they were viable and fertile but with some muscles contractions problems.    |
 | Remaining questions | Does inhibiting the production of SETD3 cause problems in the human body? |
 
 
